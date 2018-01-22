@@ -23,5 +23,5 @@
 Разработчик|Джон Грубер
 Опубликован|2004-03-19
 #### Markdown Syntax in gedit
-![](https://ru.wikipedia.org/wiki/Markdown#/media/File:Markdown_Syntax_in_gedit.png)
+![(https://ru.wikipedia.org/wiki/Markdown#/media/File:Markdown_Syntax_in_gedit.png)
 

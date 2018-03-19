@@ -24,4 +24,4 @@
 Опубликован|2004-03-19
 #### Markdown Syntax in gedit
 ![](https://ru.wikipedia.org/wiki/Markdown#/media/File:Markdown_Syntax_in_gedit.png)
-
+![](https://github.com/vikki565656/seminar3/blob/master/task1.PNG)
